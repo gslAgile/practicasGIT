@@ -4,8 +4,8 @@ using namespace std;
 int main() {
   cout << "Hola, mundo!" << endl;
 
-  return 0;
   funcion_1();
+  return 0;
 }
 
 void funcion_1() {
