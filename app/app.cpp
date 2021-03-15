@@ -4,12 +4,7 @@ using namespace std;
 int main() {
   cout << "Hola, mundo!" << endl;
 
-<<<<<<< HEAD
   funcionDeSoporte(0);
-
-  return 0;
-=======
->>>>>>> feature_1
   funcion_1();
   return 0;
 }
