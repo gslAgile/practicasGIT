@@ -7,6 +7,11 @@ int main() {
   funcionDeSoporte(0);
 
   return 0;
+  funcion_1();
+}
+
+void funcion_1() {
+  cout << "Hola, Diego!" << endl;
 }
 
 void funcionDeSoporte( int numero) {
